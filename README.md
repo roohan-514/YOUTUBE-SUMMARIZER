@@ -118,6 +118,18 @@ python evaluate.py
 7. It will display the heatmaps , graphs according to the data provided.
 
 ## SNAP SHOT OF SOME OUTPUTS ( VISUALISATIONS )
+![Screenshot 2024-05-04 183607](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/c4c0da05-2adb-4ef1-9882-4c245a4106b7)
+![Screenshot 2024-05-04 183453](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/cebbca50-90df-463a-b47d-f4a22ff223a2)
+![Screenshot 2024-05-04 183425](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/79f931f7-c094-4a4c-aed9-b0f543ff439c)
+![Screenshot 2024-05-04 183650](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/221f65e3-50a3-4e24-99b7-13103d116826)
+![Screenshot 2024-05-04 183731](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/8ed48750-85c4-4d74-90d6-ec1c74c6caa4)
+![Screenshot 2024-05-04 183829](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/8d2db527-9664-4b9b-9586-3e06d7c2d722)
+![Screenshot 2024-05-04 181802](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/35931522-21de-4a56-99d5-683bfe33a6c6)
+![Screenshot 2024-05-04 183033](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/55ded32a-dac1-41ed-8a77-9dc091bcaf2d)
+![Screenshot 2024-05-04 183103](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/c241eb92-566c-4da9-a24c-f858b23bf9e5)
+![Screenshot 2024-05-04 183121](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/ea0ae0d2-b63b-4c08-a903-81b0c6207dfa)
+![Screenshot 2024-05-04 183210](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/05f4f7b2-7248-446c-aa20-fe2a5e9bab33)
+![Screenshot 2024-05-04 183228](https://github.com/roohan-514/YOUTUBE-SUMMARIZER/assets/113782123/6d71ef86-95b3-4753-8924-414e90a3eee3)
 
 
 ## Contibuting
